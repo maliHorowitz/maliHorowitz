@@ -6,7 +6,7 @@ I build reliable, data-driven business systems using
 **C#, ASP.NET Core, React, TypeScript, PostgreSQL and Microsoft Azure**.
 
 My work focuses on translating complex business requirements into clear,
-maintainable software — with particular attention to backend architecture,
+maintainable software - with particular attention to backend architecture,
 API integrations, database design and reliable financial workflows.
 
 📍 Jerusalem District, Israel
@@ -73,7 +73,7 @@ A substantial full-stack application co-developed by
 [Tzippi Himel](https://github.com/tzippiHimel).
 
 I was one of the two primary developers and participated throughout the
-project lifecycle — from requirements analysis and system design to
+project lifecycle - from requirements analysis and system design to
 implementation, integration, testing and delivery.
 
 **Shared development responsibilities included:**
