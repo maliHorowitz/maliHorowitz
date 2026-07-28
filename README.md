@@ -64,6 +64,39 @@ The platform includes:
 
 ---
 
+## Featured Project
+
+### [Yedidim – Volunteer & Emergency Call Management System](https://github.com/tzippiHimel/Yedidim)
+
+A substantial full-stack application co-developed by
+[Malka Horowitz](https://github.com/maliHorowitz) and
+[Tzippi Himel](https://github.com/tzippiHimel).
+
+I was one of the two primary developers and participated throughout the
+project lifecycle — from requirements analysis and system design to
+implementation, integration, testing and delivery.
+
+**Shared development responsibilities included:**
+
+- Requirements analysis and system design
+- Application architecture and data modeling
+- Implementation of business logic and user interfaces
+- Integration, testing, debugging and iterative improvement
+
+**Key features:**
+
+- Help-call creation, tracking, status management and assignment
+- Volunteer management and active-call monitoring
+- Automated email notifications and simulation-based workflows
+- Rich desktop interfaces for operational management and statistics
+
+**Tech stack:** `C#` · `.NET` · `WPF` · `SMTP`
+
+[View Repository](https://github.com/tzippiHimel/Yedidim) ·
+[View My Commits](https://github.com/tzippiHimel/Yedidim/commits?author=maliHorowitz)
+
+---
+
 ## Tech Stack
 
 ### Backend
