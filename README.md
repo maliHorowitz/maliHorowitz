@@ -1,47 +1,125 @@
 # Hi, I'm Malka Horowitz 👋
 
-### Backend-oriented Full-Stack Developer
+### Backend-Oriented Full-Stack Developer
 
-I build reliable business systems and cloud-based applications using  
-**.NET, React, TypeScript, PostgreSQL and Azure**.
+I build reliable, data-driven business systems using  
+**C#, ASP.NET Core, React, TypeScript, PostgreSQL and Microsoft Azure**.
 
-My work focuses on backend architecture, API integrations, database design,
-automation and complex real-world business workflows.
+My work focuses on translating complex business requirements into clear,
+maintainable software — with particular attention to backend architecture,
+API integrations, database design and reliable financial workflows.
 
-## About Me
+📍 Jerusalem District, Israel
 
-- 💻 Full-Stack Developer with a strong backend orientation
-- ⚙️ Building REST APIs and business applications with ASP.NET Core
-- 🗄️ Working with PostgreSQL, SQL Server and Entity Framework Core
-- ☁️ Deploying and maintaining applications on Microsoft Azure
-- 🔄 Experienced with GitHub Actions and CI/CD workflows
-- 🤖 Using AI-assisted development tools to improve engineering workflows
-- 🧩 Interested in clean architecture, reliable integrations and scalable systems
+---
+
+## Professional Experience
+
+My engineering experience includes:
+
+- Developing cloud-based applications with **ASP.NET Core, React and TypeScript**
+- Designing REST APIs, service layers and relational data models
+- Working with **PostgreSQL, SQL Server and Entity Framework Core**
+- Integrating external APIs, including financial and government services
+- Implementing authentication, authorization and secure user workflows
+- Building background processes and automated business workflows
+- Handling concurrency, idempotency and transactional operations
+- Deploying applications to Azure using automated CI/CD pipelines
+- Using AI-assisted development tools for planning, implementation, testing and code review
+
+---
+
+## Selected Engineering Work
+
+### Receipt Issuance and Tax Authority Integration
+
+Developed a cloud-based receipt issuance system integrated with the
+**Israel Tax Authority API**.
+
+The system includes:
+
+- Allocation-number requests and external API communication
+- Receipt generation and digitally signed PDF documents
+- Secure document storage in Azure
+- Cancellation and re-issuance workflows
+- Input validation and reliable error handling
+- Concurrency protection and idempotent operations
+- Automated deployment through GitHub Actions
+
+### Financial CRM for Nonprofit Organizations
+
+Worked on a comprehensive financial CRM supporting complex nonprofit
+operations and business processes.
+
+The platform includes:
+
+- Contact and donor management
+- Donations and recurring payment plans
+- Funds, scholarships and beneficiaries
+- Financial records and balance calculations
+- Complex validation and payment rules
+- Role-based access and authentication
+- Document management and cloud storage
+- Responsive React and TypeScript interfaces
+
+---
 
 ## Tech Stack
 
-**Backend**  
-C# · ASP.NET Core · .NET · Entity Framework Core · REST APIs
+### Backend
 
-**Frontend**  
-React · TypeScript · JavaScript · HTML · CSS
+`C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `REST APIs`
 
-**Databases**  
-PostgreSQL · SQL Server
+### Frontend
 
-**Cloud & DevOps**  
-Microsoft Azure · GitHub Actions · CI/CD · Azure Storage
+`React` · `TypeScript` · `JavaScript` · `Vite` · `HTML` · `CSS`
 
-**Engineering**  
-Authentication · Background Jobs · API Integrations · Concurrency · Testing
+### Databases
 
-## Featured Projects
+`PostgreSQL` · `SQL Server` · `Relational Data Modeling`
 
-Selected projects demonstrating full-stack development, backend architecture,
-database design and real-world application development.
+### Cloud and DevOps
 
-> Project details and case studies are being added.
+`Microsoft Azure` · `Azure App Service` · `Azure Storage`  
+`Azure Key Vault` · `Application Insights` · `GitHub Actions` · `CI/CD`
+
+### Engineering Practices
+
+`Authentication` · `Authorization` · `Background Jobs`  
+`API Integrations` · `Concurrency` · `Idempotency` · `Validation` · `Testing`
+
+### AI-Assisted Development
+
+I use AI development tools to support:
+
+- Codebase exploration and technical research
+- Implementation planning
+- Code generation and refactoring
+- Test design and debugging
+- Code review and verification
+
+---
+
+## What I Care About
+
+I enjoy working on systems where technical quality directly affects
+real business operations.
+
+I care about:
+
+- Clear and maintainable architecture
+- Reliable backend processes
+- Correct handling of financial data
+- Thoughtful database design
+- Useful abstractions without unnecessary complexity
+- Thorough validation and predictable system behavior
+
+---
 
 ## Connect With Me
 
 - [Email](mailto:malka.horow@gmail.com)
+
+---
+
+Open to backend-oriented Full-Stack and .NET software engineering opportunities.
