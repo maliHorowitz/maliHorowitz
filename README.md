@@ -1,4 +1,4 @@
-# Hi, I'm Malka Horowitz 👋
+# Hi, I'm Malka Horowitz 
 
 ### Backend-Oriented Full-Stack Developer
 
